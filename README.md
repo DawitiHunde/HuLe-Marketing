@@ -28,15 +28,15 @@ A full-stack website for HuLe Marketing, a Digital Marketing & Web Development A
    ```
 3. Create a `.env` file in the `server` directory with the following content:
    ```env
-   PORT=5000
-   MONGO_URI=mongodb://localhost:27017/hule-marketing
-   JWT_SECRET=your_super_secret_key_change_this
+   PORT=
+   MONGO_URI=
+   JWT_SECRET=
    ```
 4. Start the server:
    ```bash
    npm run dev
    ```
-   The server will run on `http://localhost:5000`.
+   The server will run on 
 
 ### 2. Frontend Setup
 
@@ -52,7 +52,7 @@ A full-stack website for HuLe Marketing, a Digital Marketing & Web Development A
    ```bash
    npm run dev
    ```
-   The application will be available at `http://localhost:3000`.
+ 
 
 ## Features
 
@@ -62,7 +62,7 @@ A full-stack website for HuLe Marketing, a Digital Marketing & Web Development A
 
 ## Admin Access
 
-- **Login URL:** `http://localhost:3000/admin/login`
+- **Login URL:** `
 - **Default Credentials:** (You need to create a user in the database or use the registration endpoint if enabled. For demo purposes, the frontend has a mock login check: `admin@hule.com` / `admin123`)
 
 ## Project Structure
