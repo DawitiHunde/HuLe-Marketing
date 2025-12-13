@@ -16,8 +16,8 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between h-20 items-center">
                     <div className="flex-shrink-0 flex items-center">
-                        <Link href="/" className="text-2xl font-bold text-blue-black">
-                            HuLe <span className="text-gold">Marketing</span>
+                        <Link href="/" className="flex items-center gap-2">
+                            <img src="hule1.png" alt="HuLe Marketing logo" className="h-40 w-auto" />
                         </Link>
                     </div>
                     <div className="hidden md:flex space-x-8 items-center">

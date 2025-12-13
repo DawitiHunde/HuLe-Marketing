@@ -2,20 +2,20 @@ import { Star } from 'lucide-react';
 
 const testimonials = [
     {
-        name: 'Sarah Johnson',
-        role: 'CEO, TechFlow',
+        name: 'Geleta Yadete',
+        role: 'CEO, DreamTech',
         text: "HuLe Marketing transformed our online presence. Their team is professional, creative, and results-driven. Highly recommended!",
         rating: 5,
     },
     {
-        name: 'Michael Chen',
-        role: 'Founder, GreenEat',
+        name: 'Tefera Taddesse',
+        role: 'Founder, Yamrock Engineering',
         text: "The web development team built a stunning site that perfectly captures our brand. Our conversions have doubled since launch.",
         rating: 5,
     },
     {
-        name: 'Emily Davis',
-        role: 'Marketing Director, StyleCo',
+        name: 'Birhanu Tegegn',
+        role: 'Marketing Director, Amphire Marketing',
         text: "Their SEO strategies are top-notch. We've seen a significant increase in organic traffic and leads within just a few months.",
         rating: 5,
     },
